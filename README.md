@@ -6,6 +6,10 @@
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
 ### 🌟 You've successfully completed the exercise! 🌟
+---
+## Completion image from learn.microsoft.com:
+<img width="1175" height="464" alt="image" src="https://github.com/user-attachments/assets/7369ecb8-b622-4ff4-b7f1-5d468dc754d8" />
+
 
 ## 🚀 Share Your Success!
 
